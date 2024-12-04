@@ -60,7 +60,7 @@ typing_extensions==4.7.0
 uritemplate==4.1.1
 urllib3==1.26.16
 websockets==11.0.3
-Werkzeug==2.0.0
+Werkzeug==2.3.8
 yt-dlp==2023.11.14
 ytdl-nfo==0.2.3
 zipp==3.15.0
